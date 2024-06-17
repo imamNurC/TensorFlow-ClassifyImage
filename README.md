@@ -15,6 +15,7 @@ For more information about neural networks, see [Neural Networks: Structure](htt
 You will train a neural network to classify images of clothing from a dataset called [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist).
   
 This dataset contains 70,000 items of clothing belonging to 10 different categories of clothing. The images show individual articles of clothing at low resolution (28 by 28 pixels), as seen here:
+
 ![img data](https://cdn.qwiklabs.com/YPBhHbZOxbtfyeaVsai9H2bgpNqt9JJtO9ZhsYTcbas%3D)
 
 In this lab, 60,000 images will be used to train the network and 10,000 images will be used to evaluate how accurately the network learned to classify images.
